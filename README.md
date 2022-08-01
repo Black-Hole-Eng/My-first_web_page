@@ -21,6 +21,8 @@ A basic HTML file consists of:
 - The <body> contains the main content of an HTLM file -- the information that is rendered by the web browser. Note that there is only one <body> element with an HTLM file.
 - Within the <body> element, we have a high-level heading (<h1>) and a paragraph (<p>). 
 
+ file:///home/moussa/Pictures/Screenshots/Screenshot%20from%202022-08-01%2000-55-08.png
+
 We can connect a HTML page to other web pages by creating a hyperlink using the anchor tag as in the example below: 
 <a href="mailto:m.amzat@alustudent.com">Email</a>
 
