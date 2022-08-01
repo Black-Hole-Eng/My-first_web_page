@@ -1,4 +1,3 @@
-"""
 This project has helped me learn some basic HTML and CSS.
 I created a simple web page with all my information as a portfolio. 
 
