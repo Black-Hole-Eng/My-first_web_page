@@ -22,7 +22,8 @@ A basic HTML file consists of:
 - The <body> contains the main content of an HTLM file -- the information that is rendered by the web browser. Note that there is only one <body> element with an HTLM file.
 - Within the <body> element, we have a high-level heading (<h1>) and a paragraph (<p>). 
 
- file:///home/moussa/Pictures/Screenshots/Screenshot%20from%202022-08-01%2000-55-08.png
+ ![Screenshot from 2022-08-01 00-55-08](https://user-images.githubusercontent.com/101457312/182051842-444c3dd3-1b9e-4a18-a708-e4b0c6ac0657.png)
+
 
 We can connect a HTML page to other web pages by creating a hyperlink using the anchor tag as in the example below: 
 <a href="mailto:m.amzat@alustudent.com">Email</a>
@@ -54,5 +55,4 @@ Here, I've got to manipulate:
 - color
 - text-shadow
 
-In a nutshell, those are the knowledge I acquired with 4 days since I started learning. I wish I could create something more appealing but I look forward to enhancing my understanding through practice and rendering better results in the days to come. 
- """
+In a nutshell, those are the knowledge I've acquired with 4 days since I started learning about HTML and CSS. I wish I could create something more appealing, but I look forward to enhancing my understanding through practice and rendering better results in the days to come.
