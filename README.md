@@ -1,3 +1,4 @@
+"""
 This project has helped me learn some basic HTML and CSS.
 I created a simple web page with all my information as a portfolio. 
 
@@ -53,4 +54,5 @@ Here, I've got to manipulate:
 - color
 - text-shadow
 
-In a nutshell, those are the knowledge I acquired with 4 days since I started learning. I wish I could create something more appealing but I look forward to enhancing my understanding through practice and rendering better results in the days to come.  
+In a nutshell, those are the knowledge I acquired with 4 days since I started learning. I wish I could create something more appealing but I look forward to enhancing my understanding through practice and rendering better results in the days to come. 
+ """
